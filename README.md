@@ -1,4 +1,4 @@
-# navers-sistema-de-vagas
+# sistema-de-vagas
 
 ## Sobre o sistema:
 
